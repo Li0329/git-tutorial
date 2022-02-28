@@ -1,8 +1,8 @@
 Git 教程
 
-<<<<<<< HEAD
+HEAD
 feature-A
 fix-B
-=======
+feature-C
 
-> > > > > > > fix-B
+
